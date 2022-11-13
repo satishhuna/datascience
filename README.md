@@ -1,8 +1,3 @@
 # datascience
 Repository created for datascience
-a;lkdsfja
-dfaksdfajd
-fasdf
-adfadfja
-dfasd
-f
+This is the repository created for practicing git commands
